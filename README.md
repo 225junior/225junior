@@ -23,8 +23,12 @@
 
 # replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=225junior&theme=dracula&hide_border=true)
 
-# Technologies 
-<img src="https://user-images.githubusercontent.com/25165449/92829695-16a3bf80-f407-11ea-9f27-8b513b6b562a.jpeg" width="250" alt="Framework laravel"> <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="200" height="100" alt="Php">
+# Technologies 🔎🛰 
+<img src="https://user-images.githubusercontent.com/25165449/92829695-16a3bf80-f407-11ea-9f27-8b513b6b562a.jpeg" width="250" alt="Framework laravel"> <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="200" height="100" alt="Php"> <img src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png" width="200" height="100" alt="ASP">
+
+
+# Stats📈
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=225junior&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="225junior" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=225junior&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="225junior" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=225junior&theme=highcontrast&hide_border=true" alt="225junior" /> </p>
 
 <!--
 **225junior/225junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
