@@ -30,6 +30,11 @@
 # Stats📈
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=225junior&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="225junior" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=225junior&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="225junior" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=225junior&theme=highcontrast&hide_border=true" alt="225junior" /> </p>
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <!--
 **225junior/225junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
