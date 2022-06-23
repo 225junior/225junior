@@ -2,12 +2,20 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🌱 I am currently learning **Java** and also interested in **Web Development**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
-    ✨ I love to create different types of **contents**.
+    
+🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**
+    
+🌱 I am currently learning **C#** and also interested in **Web Development** with php but i am a php expert 😎
+    
+💪 I am very strong in 🐘 PHP, HTML, Css and JavaScript
+    
+🎯 My Goal is to Contribute to as many **open source project** as possible to become stronger and stronger and surpass everyone 😎🤣
+    
+✨ I love to create different types of **contents**.
+    
+ 🛐 I am a Christian, I believe in God, the father of Jesus ✝
 <td >
-    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="350" alt="Mr. Ånand's Dev Card"/>
+    <a href="https://app.daily.dev/Astrodevil"><img src="https://avatars.githubusercontent.com/u/35270982?v=4" width="350" alt="Mr. Ånand's Dev Card"/>
   </a>
   </td>
 </tr>
@@ -15,6 +23,8 @@
 
 # replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=225junior&theme=dracula&hide_border=true)
 
+# Technologies 
+<img src="https://user-images.githubusercontent.com/25165449/92829695-16a3bf80-f407-11ea-9f27-8b513b6b562a.jpeg" width="250" alt="Framework laravel"> <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="200" height="100" alt="Php">
 
 <!--
 **225junior/225junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
