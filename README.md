@@ -7,7 +7,7 @@
     
 🌱 I am currently learning **C#** and also interested in **Web Development** with php but i am a php expert 😎
     
-💪 I am very strong in 🐘 PHP, HTML, Css and JavaScript
+💪 I am very strong in 🐘 PHP, HTML, CSS and JavaScript
     
 🎯 My Goal is to Contribute to as many **open source project** as possible to become stronger and stronger and surpass everyone 😎🤣
     
