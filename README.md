@@ -35,6 +35,9 @@
 <!--END_SECTION:activity-->
 
 
+# More ➕
+You Love my work? Give me one star ⭐ ⬆️.
+
 <!--
 **225junior/225junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
