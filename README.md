@@ -3,7 +3,7 @@
 <tr>
   <td valign="center">
     
-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**
+🎓 I am currently pursuing my **Master's degree's in Computer Science Engineering**
     
 🌱 I am currently learning **C#** and also interested in **Web Development** with php but i am a php expert 😎
     
