@@ -3,7 +3,7 @@
 <tr>
   <td valign="center">
     
-🎓 I am currently pursuing my **Master's degree's in Computer Science Engineering**
+🎓 I am in **Master's degree's in Computer Science Engineering**
     
 🌱 I am currently learning **C#** and also interested in **Web Development** with php but i am a php expert 😎
     
@@ -27,8 +27,16 @@
 -->
 
 # Stats📈
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=225junior&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="225junior" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=225junior&theme=highcontrast&show_icons=true" alt="225junior" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=225junior&theme=highcontrast" alt="225junior" /> </p>
+
+<!-- old stats
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=225junior&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="225junior" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=225junior&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="225junior" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=225junior&theme=highcontrast&hide_border=true" alt="225junior" /> </p>
 
+layout=compact|default
+-->
 # Activities 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=225junior&theme=dracula&hide_border=true)
 
