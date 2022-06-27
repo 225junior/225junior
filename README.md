@@ -11,7 +11,7 @@
     
 🎯 My Goal is to Contribute to as many **open source project** as possible to become stronger and stronger and surpass everyone 😎🤣
     
-✨ I love to create different types of **contents**.
+✨ I like solving **intellectual computer challenges like hackathons**
     
  🛐 I am a Christian, I believe in God, the father of Jesus ✝
 <td >
