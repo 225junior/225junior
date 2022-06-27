@@ -25,7 +25,6 @@
 
 # Technologies 🔎🛰 
 <img src="https://user-images.githubusercontent.com/25165449/92829695-16a3bf80-f407-11ea-9f27-8b513b6b562a.jpeg" width="250" alt="Framework laravel"> <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="200" height="100" alt="Php"> <img src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png" width="200" height="100" alt="ASP">
-https://img.shields.io/badge/laravel%20framework-80%25-green
 
 
 # Stats📈
