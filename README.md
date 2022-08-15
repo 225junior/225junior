@@ -37,8 +37,8 @@
 
 layout=compact|default
 -->
-# Activities 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=225junior&theme=dracula&hide_border=true)
+<!--# Activities -->
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=225junior&theme=dracula&hide_border=true)-->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
