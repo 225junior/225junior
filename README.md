@@ -15,7 +15,7 @@
     
  🛐 I am a Christian, I believe in God, the father of Jesus ✝
 <td >
-    <a href="https://app.daily.dev/Astrodevil"><img border="grey" src="https://avatars.githubusercontent.com/u/35270982?v=4" width="350" alt="Mr. Ånand's Dev Card" style="border-radius: 33px;" />
+    <a href="https:#"><img border="grey" src="https://avatars.githubusercontent.com/u/35270982?v=4" width="350" alt="Mr. Ånand's Dev Card" style="border-radius: 33px;" />
   </a>
   </td>
 </tr>
