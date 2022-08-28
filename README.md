@@ -15,7 +15,7 @@
     
  🛐 I am a Christian, I believe in God, the father of Jesus ✝
 <td >
-    <a href="https:#"><img border="grey" src="https://avatars.githubusercontent.com/u/35270982?v=4" width="350" alt="Mr. Ånand's Dev Card" style="border-radius: 33px;" />
+    <a href="https:#"><img border="grey" src="https://scontent.fabj1-1.fna.fbcdn.net/v/t39.30808-1/297604250_107181445432878_8207765596093037544_n.jpg?stp=c24.34.187.187a_dst-jpg_p240x240&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_ohc=dq1uEzY-TSQAX9awigc&_nc_ht=scontent.fabj1-1.fna&oh=00_AT9wCd1GqIvfVLsaASyrgS8ycnwo-TnIYFpOT9oxHAx2mg&oe=63107C5C" width="350" alt="Mr. Ånand's Dev Card" style="border-radius: 33px;" />
   </a>
   </td>
 </tr>
