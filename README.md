@@ -43,7 +43,7 @@ layout=compact|default
 <!--END_SECTION:activity-->
 
 
-<!--# More ➕-->
+<!--# More ➕➕-->
 You Love my work? Give me one star ⭐ ⬆️.
 
 <!--
